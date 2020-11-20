@@ -71,5 +71,5 @@ image-cleanup.tcl exiting.
 
 1. Open the `image-cleanup.tcl` in any text editor, locate the `destination` variable.
 ```
-set destination_parent "R:\Pictures" # <-- change this, but leave the quotes.
+set destination_parent "R:\Pictures" # <-- Change this, but leave the quotes.
 ```
