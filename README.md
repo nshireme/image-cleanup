@@ -31,12 +31,18 @@ C:\Users\nshireme\Repository\Outer Space\39639.jpg
 ```
 #### <a name="running-the-script"></a>Running the Script
 
-1. Open `cmd.exe` and change the directory to image-cleanup
+1. Open `cmd.exe` and change the directory to `image-cleanup`.
 
 **Example**:
 ```batch
 C:\Users\nshireme>cd image-cleanup
 C:\Users\nshireme\image-cleanup>
+```
+2. Run the `image-cleanup.tcl` script.
+
+**Example**:
+```batch
+C:\Users\nshireme>tclsh image-cleanup.tcl
 ```
 #### <a name="cleaning-up"></a>Cleaning Up
 #### <a name="configuration"></a>Configuration
