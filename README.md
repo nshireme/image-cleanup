@@ -49,9 +49,9 @@ C:\Users\nshireme>tclsh image-cleanup.tcl
 
 **Output**:
 ```
-Source: Landscape/bram-z-bramz-ravine-environment-unreal-03.jpg  Destination: R:Pictures/Landscape/1.jpg
+Source: Landscape/ravine-environment.jpg  Destination: R:Pictures/Landscape/1.jpg
 Source: Landscape/maxresdefault.jpg  Destination: R:Pictures/Landscape/2.jpg
-Source: Landscape/unreal-engine-4-landscape-uhd-4k-wallpaper.jpg  Destination: R:Pictures/Landscape/3.jpg
+Source: Landscape/4k-wallpaper.jpg  Destination: R:Pictures/Landscape/3.jpg
 Source: Outer Space/17520.jpg  Destination: R:Pictures/Outer Space/1.jpg
 Source: Outer Space/39632.jpg  Destination: R:Pictures/Outer Space/2.jpg
 Source: Outer Space/39639.jpg  Destination: R:Pictures/Outer Space/3.jpg
