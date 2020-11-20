@@ -66,3 +66,10 @@ Removing Outer Space
 image-cleanup.tcl exiting.
 ```
 #### <a name="configuration"></a>Configuration
+
+**Changing the destination folder**:
+
+1. Open the `image-cleanup.tcl` in any text editor, locate the `destination` variable.
+```
+set destination_parent "R:\Pictures" # <-- change this, but leave the quotes.
+```
