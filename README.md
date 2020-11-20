@@ -54,5 +54,13 @@ Source: Outer Space/17520.jpg  Destination: R:Pictures/Outer Space/1.jpg
 Source: Outer Space/39632.jpg  Destination: R:Pictures/Outer Space/2.jpg
 Source: Outer Space/39639.jpg  Destination: R:Pictures/Outer Space/3.jpg
 ```
+The script will continue the count from where you left off the next time you collect more photos that already have a destination folder. 
+
 #### <a name="cleaning-up"></a>Cleaning Up
+You don't have to remove any folders manually, the script will do it for you. 
+```
+Removing Landscape
+Removing Outer Space
+image-cleanup.tcl exiting.
+```
 #### <a name="configuration"></a>Configuration
