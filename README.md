@@ -8,6 +8,9 @@ Organize your photos by renaming and moving it to specific folders.
 * [Configuration](#configuration)
 
 #### <a name="prerequisites"></a>Prerequisites
+1. A folder under your user profile labelled `Repository`.
+2. A destination folder or drive.
+
 #### <a name="setup"></a>Setup
 #### <a name="running-the-script"></a>Running the Script
 #### <a name="cleaning-up"></a>Cleaning Up
