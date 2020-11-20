@@ -22,14 +22,13 @@ C:\Users\nshireme\image-cleanup\image-cleanup.tcl
 
 **Example**:
 ```
-C:\Users\nshireme\Repository\Batman
-    - aa54.jpg
-    - batman-cave.jpg
-C:\Users\nshireme\Repository\Landscape
-    - 234234agav.jpg
-    - adasgg.png
+C:\Users\nshireme\Repository\Landscape\bram-z-bramz-ravine-environment-unreal-03.jpg
+C:\Users\nshireme\Repository\Landscape\maxresdefault.jpg
+C:\Users\nshireme\Repository\Landscape\unreal-engine-4-landscape-uhd-4k-wallpaper.jpg
+C:\Users\nshireme\Repository\Outer Space\17520.jpg
+C:\Users\nshireme\Repository\Outer Space\39632.jpg
+C:\Users\nshireme\Repository\Outer Space\39639.jpg
 ```
-
 #### <a name="running-the-script"></a>Running the Script
 #### <a name="cleaning-up"></a>Cleaning Up
 #### <a name="configuration"></a>Configuration
