@@ -18,7 +18,7 @@ Organize your photos by renaming and moving it to specific folders.
 ```
 C:\Users\nshireme\image-cleanup\image-cleanup.tcl
 ```
-2. Place all the folders that contain the images you want to rename and move into your `Repository` folder.
+2. Place all the folders that contain the images you want to rename and move, into your `Repository` folder.
 
 **Example**:
 ```
